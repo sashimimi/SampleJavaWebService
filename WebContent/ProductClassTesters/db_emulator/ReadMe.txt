@@ -1,0 +1,1 @@
+The newer version of the API created on March 14, 2019 includes try/catches in the API methods.
